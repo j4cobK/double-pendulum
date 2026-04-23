@@ -82,8 +82,8 @@ void init_solver()
     phi2_d = 0;
     l1 = L1;
     l2 = L2;
-    m1 = 2;
-    m2 = 2;
+    m1 = 8;
+    m2 = 8;
 }
 
 int main(void)
